@@ -1,0 +1,13 @@
+{
+  "repo": "finlit-egypt-financial-literacy-platform",
+  "title": "FinLit Egypt Financial Literacy Platform",
+  "category": "Finance-Projects",
+  "description": "A financial literacy platform with calculators, educational resources, user account flows, charts, and an Express server.",
+  "topics": [
+    "finance",
+    "financial-literacy",
+    "nodejs",
+    "express",
+    "javascript"
+  ]
+}
