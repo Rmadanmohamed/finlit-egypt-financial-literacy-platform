@@ -33,3 +33,6 @@ tmp_*
 
 # Large local artifacts
 # Add specific large local files here if needed.
+
+# Private local runtime storage; never commit personal records
+.finlit-data/
